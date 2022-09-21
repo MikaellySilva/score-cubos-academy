@@ -1,5 +1,5 @@
 let nomeTimeA = prompt("Enter the name of the first team: ");
-let nomeTimeB = prompt("enter the name of the second team> ");
+let nomeTimeB = prompt("enter the name of the second team: ");
 let pontoA = 0;
 let pontoB = 0;
 let setA = 0;
